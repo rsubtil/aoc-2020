@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
 
 # Get the input file
-input_file = open('input', 'r')
-input_list = input_file.readlines()
-input_file.close()
+with open('input', 'r') as input_file:
+	input_list = input_file.readlines()
 
 answer_p1 = None
 answer_p2 = None
