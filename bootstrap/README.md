@@ -1,10 +1,12 @@
 # Day X: .......
 
-## Problem statement
+## Problem statement (part 1)
 
 ### Input
 
 ### Output
+
+## Problem statement (part 2)
 
 ## Algorithm analysis
 
