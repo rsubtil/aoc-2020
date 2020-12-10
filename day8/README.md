@@ -53,8 +53,6 @@ For part two, we have to modify instructions. We go line by line, modify it, and
 
 ### Time and memory complexity
 
-### Time and memory complexity
-
 For the analysis below, the following variables have these meanings:
 
 - `n` means the size of the input
